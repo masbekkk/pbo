@@ -1,0 +1,10 @@
+public class GuruPNS extends Guru{
+
+	public String NIP;
+	
+	GuruPNS(String nip){
+		this.NIP = nip;
+	}
+	
+
+}
